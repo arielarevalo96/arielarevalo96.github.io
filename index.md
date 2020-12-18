@@ -4,7 +4,7 @@ ESTE  PROYECTO ES PARA SABER LOS EDIFICIOS EMBLEMATICOS DE GUAYAQUIL
 <img src="https://www.bravent.net/wp-content/uploads/2019/03/redes-neuronales-post-marzo-WP-1080x870.jpg" width="300" height="300">
 
 
-<div>Teachable Machine Image Model</div>
+<div>CLIC PARA INICIAR RECONOCIMIENTO </div>
 <button type="button" onclick="init()">Start</button>
 <div id="webcam-container"></div>
 <div id="label-container"></div>

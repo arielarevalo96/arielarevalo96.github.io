@@ -1,6 +1,9 @@
 ## BIENBENIDOS AL PROYECTO DE RECONOCIMIENTO DE EDIFICIOS
 ESTE  PROYECTO ES PARA SABER LOS EDIFICIOS EMBLEMATICOS DE GUAYAQUIL
-<img src="https://www.google.com/url?sa=i&url=https%3A%2F%2Fwww.bravent.net%2Flas-claves-del-machine-learning-y-las-redes-neuronales&psig=AOvVaw3zjlEQVQtRZcoezoxN87EO&ust=1608416915868000&source=images&cd=vfe&ved=0CAIQjRxqFwoTCPDLiI7K2O0CFQAAAAAdAAAAABAD" alt="" />
+
+<img src="https://www.bravent.net/wp-content/uploads/2019/03/redes-neuronales-post-marzo-WP-1080x870.jpg" width="300" height="300">
+
+
 <div>Teachable Machine Image Model</div>
 <button type="button" onclick="init()">Start</button>
 <div id="webcam-container"></div>

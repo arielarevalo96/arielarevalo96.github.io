@@ -1,5 +1,6 @@
 ## BIENBENIDOS AL PROYECTO DE RECONOCIMIENTO DE EDIFICIOS
 ESTE  PROYECTO ES PARA SABER LOS EDIFICIOS EMBLEMATICOS DE GUAYAQUIL
+https://www.google.com/url?sa=i&url=https%3A%2F%2Fes.slideshare.net%2Fkikyosan%2Fredes-neuronales-3223342&psig=AOvVaw3bkuy3CoKytzRf2_XYur5W&ust=1608416506371000&source=images&cd=vfe&ved=0CAIQjRxqFwoTCPCk6svI2O0CFQAAAAAdAAAAABAJ
 <div>Teachable Machine Image Model</div>
 <button type="button" onclick="init()">Start</button>
 <div id="webcam-container"></div>
